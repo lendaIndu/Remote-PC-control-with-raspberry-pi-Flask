@@ -16,3 +16,4 @@ and this web page check pc status by send a ping to pc, once every 200 seconds.
 you can copy and paste these files from my github.
 
 
+아 깃허브 쓰기 너무 어렵다. 다음에는 그냥 블로그에 올려야 겠다. 
